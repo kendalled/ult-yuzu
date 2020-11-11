@@ -12,7 +12,7 @@ features:
 <img src="/preview-light.jpg" class="light-img" width="1280" height="640" alt="SSBU Yuzu Setup Guide" />
 <img src="/preview-dark.jpg" class="dark-img" width="1280" height="640" alt="SSBU Yuzu Setup Guide" />
 
-<p>This guide is meant for anyone trying to play SSBU on their PC with Yuzu Emulator. Follow this guide step by step to get started in less than 30 minutes. Low-latency online has never been easier.</p>
+<p>This guide is meant for anyone trying to play SSBU on their PC with Yuzu Emulator. Follow along step by step to get started in less than 30 minutes. Low-latency online has never been easier.</p>
 
 <p>Many common pitfalls are listed and all necessary files are included. Do not share these files with anyone. Download without a VPN at your own risk.</p>
 
