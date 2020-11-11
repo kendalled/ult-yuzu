@@ -11,18 +11,25 @@ features:
 
 <img src="/preview-light.jpg" class="light-img" width="1280" height="640" alt="SSBU Yuzu Setup Guide" />
 <img src="/preview-dark.jpg" class="dark-img" width="1280" height="640" alt="SSBU Yuzu Setup Guide" />
-<p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
 
-Created & maintained by [@kendallCFL](https://twitter.com/@kendallCFL).
+<p>This guide is meant for anyone trying to play SSBU on their PC with Yuzu Emulator - online or offline. Common mistakes are listed and all necessary files are included. Don't share these files.</p>
+
+<p>Follow this guide step by step to get started in less than 30 minutes & play online with little to no lag.</p>
 
 <alert type="success">
 
-Online 1v1's are working - download [Parsec](https://parsecgaming.com/) or [Moonlight](https://moonlight-stream.org/) to get started!
+Online battles are now working - download [Parsec](https://parsecgaming.com/) or [Moonlight](https://moonlight-stream.org/) to get started!
 
 </alert>
+
+<p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
+
+Created & maintained by [@kendallCFL](https://twitter.com/@kendallCFL)
 
 ## Hardware Requirements
 
 <list :items="features"></list>
+
+
 
 
