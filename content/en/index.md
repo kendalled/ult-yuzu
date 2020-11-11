@@ -13,7 +13,7 @@ features:
 <img src="/preview-dark.jpg" class="dark-img" width="1280" height="640" alt="SSBU Yuzu Setup Guide" />
 <p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
 
-Created & maintained by [kEndAll](https://twitter.com/@kendallCFL).
+Created & maintained by [@kendallCFL](https://twitter.com/@kendallCFL).
 
 <alert type="success">
 
