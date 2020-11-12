@@ -1,42 +1,15 @@
 ---
 title: Controller Setup
 description: ''
-position: 3
-category: Resources
+position: 4
+category: 'Resources'
 ---
 
-Check the [Nuxt.js documentation](https://nuxtjs.org/guides/configuration-glossary/configuration-modules) for more information about installing and using modules in Nuxt.js.
+### GameCube Controller
 
-## Installation
+Check the [Yuzu documentation](https://yuzu-emu.org/wiki/faq/#how-do-i-use-my-gamecube-controller-adapter) for more information about installing and using GameCube controllers with Yuzu. MayFlash and Nintendo adapters are the easiest to configure.
 
-Add `@nuxtjs/xxx` dependency to your project:
+## Nintendo Pro Controller
 
-<code-group>
-  <code-block label="Yarn" active>
+Simply plug in your Pro Controller to your PC with a USB-C cable to get started. No configuration is required besides going into Yuzu and clicking `Emulation > Controls > Connect Controller` in the top left.
 
-  ```bash
-  yarn add @nuxtjs/xxx
-  ```
-
-  </code-block>
-  <code-block label="NPM">
-
-  ```bash
-  npm install @nuxtjs/xxx
-  ```
-
-  </code-block>
-</code-group>
-
-Then, add `@nuxtjs/xxx` to the `modules` section of `nuxt.config.js`:
-
-```js[nuxt.config.js]
-{
-  modules: [
-    '@nuxtjs/xxx'
-  ],
-  xxx: {
-    // Options
-  }
-}
-```
