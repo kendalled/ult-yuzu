@@ -1,9 +1,9 @@
 <template>
   <span>
     <a class="inline-block" href="#" @click.prevent="showKey = !showKey" title="Key"><slot></slot></a>
-    <p class="italic font-medium" v-if="showKey">
+    <code-block v-if="showKey">
       {{ currentKey }}
-    </p>
+    </code-block>
   </span>
 </template>
 
