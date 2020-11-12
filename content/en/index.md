@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: 'If all you want to do is emulate SSBU on your PC, look no farther. From file dumps to controller & online instructions, we have it all.'
+description: 'If all you want to do is emulate SSBU on your PC, look no further. From file dumps to controller & online instructions, we have it all.'
 position: 1
 category: 'Getting Started'
 features:
