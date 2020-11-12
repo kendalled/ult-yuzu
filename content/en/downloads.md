@@ -7,8 +7,9 @@ category: 'Getting Started'
 
 ## Direct Links
 - The [Yuzu Emulator](https://yuzu-emu.org/downloads/)
-- SSBU [game dump](https://drive.google.com/drive/folders/1DUUL1xWV4dcgci9Gf1s6_t4BeuPgPJRC?usp=sharing) (`.xci` file)
-- A [prod.keys](https://drive.google.com/drive/folders/1DUUL1xWV4dcgci9Gf1s6_t4BeuPgPJRC?usp=sharing) file (download the `keys` folder)
+- SSBU <expandable-link>game dump</expandable-link> (`.xci` file)
+- A <expandable-link>prod.keys</expandable-link> file (download the `keys` folder)
+- Base64 [Decoding Tool](https://www.base64decode.org) (paste the code above into this tool)
 
 ## Next Steps
 - Place the ```Smash Ultimate.xci``` file in a folder on your desktop, called `Games` for example.

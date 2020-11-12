@@ -5,7 +5,7 @@ position: 4
 category: 'Resources'
 ---
 
-### GameCube Controller
+## GameCube Controller
 
 Check the [Yuzu documentation](https://yuzu-emu.org/wiki/faq/#how-do-i-use-my-gamecube-controller-adapter) for more information about installing and using GameCube controllers with Yuzu. MayFlash and Nintendo adapters are the easiest to configure.
 
