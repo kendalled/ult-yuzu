@@ -1,9 +1,14 @@
 <template>
   <span>
     <a class="inline-block" href="#" @click.prevent="showKey = !showKey" title="Key"><slot></slot></a>
-    <code-block v-if="showKey">
-      {{ currentKey }}
-    </code-block>
+    <code-group v-if="showKey" class="my-4">
+      <code-block label="Game Dump" active>
+        {{key1}}
+      </code-block>
+      <code-block label="Keys folder">
+        {{key2}}
+      </code-block>
+    </code-group>
   </span>
 </template>
 
@@ -19,7 +24,7 @@ export default {
   },
   props: {
     opt: {
-      type: Number,
+      type: String,
       default: 'game'
     }
   },
