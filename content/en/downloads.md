@@ -3,7 +3,7 @@ title: Downloads
 description: 'Downloads page'
 position: 2
 category: 'Getting Started'
-subtitle: Please download all sensitive files using a VPN, & do not redistribute them.
+subtitle: Please download all sensitive files using a VPN if needed, & do not redistribute them.
 ---
 
 ## Direct Links
