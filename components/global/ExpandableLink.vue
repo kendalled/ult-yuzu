@@ -1,11 +1,8 @@
 <template>
   <span>
     <a class="inline-block" href="#" @click.prevent="showKey = !showKey" title="Key"><slot></slot></a>
-    <alert v-if="showKey && opt === 'game'">
-      {{ key1 }}
-    </alert>
-    <alert v-if="showKey && opt === 'prod'">
-      {{ key2 }}
+    <alert type="warning" v-if="showKey">
+      {{ currentKey }}
     </alert>
   </span>
 </template>
