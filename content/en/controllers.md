@@ -5,6 +5,12 @@ position: 4
 category: 'Resources'
 ---
 
+Information about setting up the most common controllers on Yuzu.
+
+<alert type="warning">
+  Plug in your controller (and adapter if needed) <b>before</b> starting Yuzu. This ensures your controller is fully recognized by the emulator.
+</alert>
+
 ## GameCube Controller
 
 Check the [Yuzu documentation](https://yuzu-emu.org/wiki/faq/#how-do-i-use-my-gamecube-controller-adapter) for more information about installing and using GameCube controllers with Yuzu. MayFlash and Nintendo adapters are the easiest to configure.
