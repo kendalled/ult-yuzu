@@ -11,7 +11,7 @@ subtitle: Please download all sensitive files using a VPN if needed, & do not re
 - SSBU <expandable-link opt="game">game dump</expandable-link> (`.xci` file)
 - A <expandable-link opt="prod">prod.keys</expandable-link> file (download the `keys` folder)
 
-<alert type="info">
+<alert type="warning">
   To decode any encrypted download links, simply <b>copy & paste</b> the characters that appear into this <a href="https://www.base64decode.org" title="Base64 Decoder" target="_blank">Base64 decoding</a> tool.
 </alert>
 
