@@ -8,7 +8,7 @@ subtitle: Please download all sensitive files using a VPN if needed, & do not re
 
 ## Direct Links
 - The [Yuzu Emulator](https://yuzu-emu.org/downloads/)
-- SSBU <expandable-link opt="game">game dump</expandable-link> (`.xci` file)
+- SSBU <expandable-link opt="game">game dump</expandable-link> (download the `.xci` file)
 - A <expandable-link opt="prod">prod.keys</expandable-link> file (download the `keys` folder)
 
 <alert type="info">

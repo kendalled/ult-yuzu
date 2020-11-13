@@ -1,9 +1,16 @@
 <template>
   <span>
     <a class="inline-block" href="#" @click.prevent="showKey = !showKey" title="Key"><slot></slot></a>
-    <alert type="warning" v-if="showKey">
-      {{ currentKey }}
-    </alert>
+    <code-group v-if="showKey" class="my-4">
+      <code-block label="Game dump" active v-if="opt === 'game'">
+        <code>{{key1}}</code>
+      </code-block>
+      <code-block label="Keys folder" active v-if="opt === 'prod'">
+        <code>
+          {{key2}}
+        </code>
+      </code-block>
+    </code-group>
   </span>
 </template>
 
