@@ -1,5 +1,7 @@
 # ult-yuzu
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/91a70878-ce48-4720-826d-ad128a271e04/deploy-status)](https://app.netlify.com/sites/ult-yuzu/deploys)
+
 ## Setup
 
 Install dependencies:
