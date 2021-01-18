@@ -11,10 +11,6 @@ Information about setting up the most common controllers on Yuzu.
   Plug in your controller (and adapter / software if needed) before starting Yuzu or Parsec. This ensures everything works correctly.
 </alert>
 
-## Third Party Adapter & GameCube Controller
-
-Check the [Yuzu documentation](https://yuzu-emu.org/wiki/faq/#how-do-i-use-my-gamecube-controller-adapter) for more information about installing and using GameCube controllers with Yuzu. MayFlash and 8BitDo adapters are the easiest to configure. If you are using a Mayflash or 8BitDo adapter, simply switch it to PC mode and it will work natively. If your third party adapter does not have a PC mode, I am unsure and the steps below may work but are not guaranteed.
-
 ## Official Nintendo Adapter & GameCube Controller
 
 If you intend on playing via Parsec (online), you need a program to convert your GameCube controller inputs to Xbox 360 inputs. I recommend [Delfinovin](https://github.com/Struggleton/Delfinovin/releases/download/v0.02/Delfinovin.zip), but there are many options. Delfinovin is made by one guy, is proven to be safe, and works every time.
@@ -33,6 +29,9 @@ If you intend on playing via Parsec (online), you need a program to convert your
   If you try running Delfinovin and it seems to crash, follow <a href="https://www.youtube.com/watch?v=bi2hf6VxmiI" title="Video Guide to Fix Delfinovin" target="_blank">this guide</a> <b>exactly</b>.
 </alert>
 
+## Third Party Adapter & GameCube Controller
+
+Check the [Yuzu documentation](https://yuzu-emu.org/wiki/faq/#how-do-i-use-my-gamecube-controller-adapter) for more information about installing and using GameCube controllers with Yuzu. MayFlash and 8BitDo adapters are the easiest to configure. If you are using a Mayflash or 8BitDo adapter, simply switch it to PC mode and it will work natively. If your third party adapter does not have a PC mode, I am unsure and the steps below may work but are not guaranteed.
 
 ## Nintendo Pro Controller
 
