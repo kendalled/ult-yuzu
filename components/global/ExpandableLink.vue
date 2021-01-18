@@ -20,8 +20,8 @@ export default {
   data () {
     return {
       showKey: false,
-      key1: 'aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQXRpSl90Sm9EMGE4R0JrYUg0cXRFM1FKOEhNNER3ZDcvdmlldz91c3A9c2hhcmluZw',
-      key2: 'aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXdvbUZITGc2UGl5U3hCZl8ycU1ucTJFSFc4VTlLOXdSP3VzcD1zaGFyaW5n'
+      key1: 'aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQXRpSl90Sm9EMGE4R0JrYUg0cXRFM1FKOEhNNER3ZDcvdmlldz91c3A9c2hhcmluZw1',
+      key2: 'aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXdvbUZITGc2UGl5U3hCZl8ycU1ucTJFSFc4VTlLOXdSP3VzcD1zaGFyaW5n1'
     }
   },
   props: {
