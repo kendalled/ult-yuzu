@@ -27,7 +27,7 @@ If you intend on playing via Parsec (online), you need a program to convert your
 
 - A black box should pop up with 4 options. Press 1 and then enter to start the controller loop (reads GameCube controller). You should see numbers and at this point if you press buttons on the controller you should see all of the values change. If not, see the video guide below.
 
-- Start Parsec & enjoy playing
+- Start Parsec or Yuzu & enjoy playing!
 
 <alert type="warning">
   If you try running Delfinovin and it seems to crash, follow <a href="https://www.youtube.com/watch?v=bi2hf6VxmiI" title="Video Guide to Fix Delfinovin" target="_blank">this guide</a> <b>exactly</b>.
