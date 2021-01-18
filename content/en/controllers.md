@@ -5,7 +5,7 @@ position: 5
 category: 'Resources'
 ---
 
-Information about setting up the most common controllers on Yuzu.
+Information about setting up the most common controllers on Parsec & Yuzu.
 
 <alert type="info">
   Plug in your controller (and adapter / software if needed) before starting Yuzu or Parsec. This ensures everything works correctly.
