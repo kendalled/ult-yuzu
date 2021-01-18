@@ -23,11 +23,27 @@ If you intend on playing via Parsec (online), you need a program to convert your
 
 - A black box should pop up with 4 options. Press 1 and then enter to start the controller loop (reads GameCube controller). You should see numbers and at this point if you press buttons on the controller you should see all of the values change. If not, see the video guide below.
 
-- Start Parsec & enjoy playing!
-
-<alert type="warning">
+<alert type="info">
   If you try running Delfinovin and it seems to crash, follow <a href="https://www.youtube.com/watch?v=bi2hf6VxmiI" title="Video Guide to Fix Delfinovin" target="_blank">this guide</a> <b>exactly</b>.
 </alert>
+
+#### Fix button layout in Parsec (important)
+
+- Start Parsec without connecting to your host. You only have to do this step once. Go into Parsec Gamepad settings, and unmap `Back`. Then, map the `Z` button on your controller to Right bumper. Finally, swap A & B. 
+
+#### Yuzu settings
+
+- Start Parsec & connect to your Host. 
+
+- Once they are in Yuzu, have them select "xInput Controller 0" as Player two, and make your left stick's range 60%.
+
+- Enjoy playing!
+
+<alert type="warning">
+  You must fix your controller's range in Yuzu every time. However, since you adjusted your buttons in Parsec, at least those will always be right. Enjoy your time playing.
+</alert>
+
+
 
 ## Third Party Adapter & GameCube Controller
 
