@@ -17,7 +17,7 @@ If you intend on playing via Parsec (online), you need a program to convert your
 
 ### How to use Delfinovin
 
-- Close Parsec, Yuzu, Steam, etc (anything that can use controller inputs)
+- Close Parsec, Yuzu, Steam, etc. (anything that can use controller inputs)
 
 - Click Delfinovin.exe in the folder where you saved it
 
