@@ -27,11 +27,13 @@ If you intend on playing via Parsec (online), you need a program to convert your
   If you try running Delfinovin and it seems to crash, follow <a href="https://www.youtube.com/watch?v=bi2hf6VxmiI" title="Video Guide to Fix Delfinovin" target="_blank">this guide</a> <b>exactly</b>.
 </alert>
 
-#### Fix button layout in Parsec (important)
+If you made it this far and you see your controller's inputs in the black box, continue below.
+
+#### Fix button layout in Parsec (first time only)
 
 - Start Parsec without connecting to your host. You only have to do this step once. Go into Parsec Gamepad settings, and unmap `Back`. Then, map the `Z` button on your controller to Right bumper. Finally, swap A & B. 
 
-#### Yuzu settings
+#### Yuzu settings (every time)
 
 - Start Parsec & connect to your Host. 
 
