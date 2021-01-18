@@ -1,7 +1,7 @@
 ---
 title: Downloads
 description: 'Downloads page'
-position: 2
+position: 3
 category: 'Getting Started'
 subtitle: Please download all sensitive files using a VPN if needed, & do not redistribute them.
 ---
@@ -22,4 +22,6 @@ subtitle: Please download all sensitive files using a VPN if needed, & do not re
 
 
 ## Extra Downloads
-If you intend on playing via Parsec (online), and do _not_ have a Nvidia GPU, you need a program to convert your GameCube controller inputs to Xbox 360 inputs. I recommend [x360ce](https://www.x360ce.com/), but there are many options.
+If you intend on playing via Parsec (online), and do _not_ have a Nvidia GPU, you need a program to convert your GameCube controller inputs to Xbox 360 inputs. I recommend [delfinovin](https://github.com/Struggleton/Delfinovin/releases/download/v0.02/Delfinovin.zip), but there are many options.
+
+If you try running Delfinovin and it seems to crash, follow [this guide](https://www.youtube.com/watch?v=bi2hf6VxmiI).
