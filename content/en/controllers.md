@@ -1,6 +1,6 @@
 ---
 title: Controller Setup
-description: ''
+description: 'Information on setting up controllers in Parsec & Yuzu.'
 position: 5
 category: 'Resources'
 ---
