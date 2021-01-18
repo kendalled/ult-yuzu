@@ -29,11 +29,11 @@ If you intend on playing via Parsec (online), you need a program to convert your
 
 If you made it this far and you see your controller's inputs in the black box, continue below.
 
-### Fix button layout in Parsec (first time only)
+### Fix button layout in Parsec
 
-- Start Parsec without connecting to your host. You only have to do this step once. Go into Parsec Gamepad settings, and unmap `Back`. Then, map the `Z` button on your controller to Right bumper. Finally, swap A & B. 
+- You only have to do this step <b>once</b>. It will make your life easier. Start Parsec without connecting to your host. Go into Parsec Gamepad settings, and unmap `Back`. Then, map the `Z` button on your controller to Right bumper. Finally, swap A & B. 
 
-### Yuzu settings (every time)
+### Yuzu settings
 
 - Start Parsec & connect to your Host. 
 
@@ -42,7 +42,7 @@ If you made it this far and you see your controller's inputs in the black box, c
 - Enjoy playing!
 
 <alert type="warning">
-  You must fix your controller's range in Yuzu every time. However, since you adjusted your buttons in Parsec, at least those will always be right. Enjoy your time playing.
+  You must fix your left stick's range (60%) in Yuzu <i>every time</i>. This is because everyone you connect to has a different copy of Yuzu and it doesn't save your controller settings. If buttons aren't behaving as they should, see the button layout section above.
 </alert>
 
 
