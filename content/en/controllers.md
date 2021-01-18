@@ -30,7 +30,7 @@ If you intend on playing via Parsec (online), you need a program to convert your
 - Start Parsec & enjoy playing
 
 <alert type="warning">
-  If you try running Delfinovin and it seems to crash, follow [this guide](https://www.youtube.com/watch?v=bi2hf6VxmiI) <b>exactly</b>.
+  If you try running Delfinovin and it seems to crash, follow <a href="https://www.youtube.com/watch?v=bi2hf6VxmiI" title="Video Guide to Fix Delfinovin" target="_blank">this guide</a> <b>exactly</b>.
 </alert>
 
 
