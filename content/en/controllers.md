@@ -15,7 +15,7 @@ Information about setting up the most common controllers on Yuzu.
 
 If you intend on playing via Parsec (online), you need a program to convert your GameCube controller inputs to Xbox 360 inputs. I recommend [Delfinovin](https://github.com/Struggleton/Delfinovin/releases/download/v0.02/Delfinovin.zip), but there are many options. Delfinovin is made by one guy, is proven to be safe, and works every time.
 
-### How to use Delfinovin with Parsec
+### How to use Delfinovin
 
 - Close Parsec, Yuzu, Steam, etc (anything that can use controller inputs)
 
