@@ -19,7 +19,7 @@ Check the [Yuzu documentation](https://yuzu-emu.org/wiki/faq/#how-do-i-use-my-ga
 
 If you intend on playing via Parsec (online), you need a program to convert your GameCube controller inputs to Xbox 360 inputs. I recommend [Delfinovin](https://github.com/Struggleton/Delfinovin/releases/download/v0.02/Delfinovin.zip), but there are many options.
 
-### How to use Delfinovin (what makes your Nintendo Adapter work)
+### How to use Delfinovin
 
 - Close Parsec, Yuzu, Steam, etc (anything that can use controller inputs)
 
