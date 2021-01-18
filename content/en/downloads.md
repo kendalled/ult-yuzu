@@ -8,8 +8,9 @@ subtitle: Please download all sensitive files using a VPN if needed, & do not re
 
 ## Direct Links
 - The [Yuzu Emulator](https://yuzu-emu.org/downloads/)
-- SSBU <expandable-link opt="game">game dump</expandable-link> (download the `.xci` file)
-- A <expandable-link opt="prod">prod.keys</expandable-link> file (download the `keys` folder)
+- SSBU Game Dump (you need to legally download or <i>find</i> a `.xci` file)
+- A prod.keys file (you need a `keys` folder)
+- Update files for the most recent patches (once again, Google it)
 
 <alert type="info">
   To decode any encrypted download links, simply <b>copy & paste</b> the characters that appear into this <a href="https://www.base64decode.org" title="Base64 Decoder" target="_blank">Base64 decoding</a> tool.
