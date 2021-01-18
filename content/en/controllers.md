@@ -29,11 +29,11 @@ If you intend on playing via Parsec (online), you need a program to convert your
 
 If you made it this far and you see your controller's inputs in the black box, continue below.
 
-#### Fix button layout in Parsec (first time only)
+### Fix button layout in Parsec (first time only)
 
 - Start Parsec without connecting to your host. You only have to do this step once. Go into Parsec Gamepad settings, and unmap `Back`. Then, map the `Z` button on your controller to Right bumper. Finally, swap A & B. 
 
-#### Yuzu settings (every time)
+### Yuzu settings (every time)
 
 - Start Parsec & connect to your Host. 
 
